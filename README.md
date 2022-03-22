@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ExSmartParking" title="ExSmartParking" src=".ExSmart/LogoEx.png" width=350/>
+    Projeto de Governança em TI
 </h1>
 
 <p align="center">
@@ -14,47 +14,51 @@
 </p>
 
 <p align="center">
-  Projeto desenvolvido e atrelado com a disciplina de "Projeto Prático de Sistemas Aplicado a Negócio" da UNINOVE onde o Professor Orientador é o Adriano M. Schroeder. O mesmo tem por seu objetivo ser um local onde os clientes desta rede de Estacionamentos possam realizar suas reservas e garantir a segurança do seu veículo. 
+ Nesse semestre o novo desafio foi realizar uma Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados aprendidas durantes as aulas. 
 </p>
 
-<br/>
+<!-- INFORMAÇÕES GERAIS -->
+## Informações Gerais
+* Universidade Nove de Julho 
+* Professor Edson M. Souza [(GitHub)](https://github.com/EdsonMSouza)
+* Disciplina Ciência de Dados - Projeto de Gover. em TI
+
+<!-- INTEGRANTES -->
+## Integrantes
+|RA|Nome|
+| -------- | -------- | 
+|3020101169|Guilherme Rocha Silva|
+|3019203263|Guilherme Rodrigues Santos|
+|919107294|Higor Rocha Fernandes da Silva|
+|3019201841|Matheus Meneses Messias|
+|3019109565|Victor Nunes Pedreira|
 
 <!-- LINGUAGENS -->
-## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## Tecnologias
+Neste projeto utilizamos as seguintes ferramentas:
 
-- `Frontend` ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5) 
-             ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=CSS3&logoColor=007ACC)
-             ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
-
-- `Ferramentas` ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-              
-- `Versionamento` ![Git](https://img.shields.io/badge/-Git-05122A?&logo=git)
-                  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)
+- ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)&nbsp;
+- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)
+- ![Colab](https://img.shields.io/badge/-Google%20Colab-05122A?&logo=Google%20Colab&logoColor=FF8C00)&nbsp; 
 
 <!-- REQUISITOS DO SISTEMA -->
-## 🛠 Funcionalidades
+## Funcionalidades
 - `Cadastrar cliente` | Realizar o Cadastro do cliente com Nome, CPF, Endereço, Email e Senha;
 - `Cadastrar Veiculos` | Realizar o cadastro do Veículo com Fabricante, Modelo e Placa;
 - `Cadastrar Pagamento` | Realizar o Cadastro das formas de pagamento com Cartão de Crédito ou Débito em conta;
 - `Cadastro de Parceiros` | Realizar o Cadastro da utilização do Sem Parar (parceiro da EX);
 - `Realizar Reserva` | Realizar o registro de uma reserva de vaga no Ex Smart Parking escolhendo um dos polos e dentro escolher Andar, Setor e o Número da Vaga;
 
-
-<!-- LAYOUT DO SISTEMA -->
-## 💻 Layout
-Você pode visualizar o layout básico do projeto através [desse link](https://www.figma.com/file/S8GoSPO0ub0mVRY5fVNv7g/Ex's-Smart-Parking?node-id=18%3A159). Lembrando que não é necessáario ter uma conta no Figma para acessá-lo.
-
 <!-- CONTRIBUIDORES  -->
-## :busts_in_silhouette: Contribuidores
-[<img src=".ExSmart/HigorProfile.jpg" width=115 > <br> <sub> Higor Rocha </sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".ExSmart/VictorProfile.jpg" width=115 > <br> <sub> Victor Pedreira</sub>](https://github.com/VictorNuPe) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".ExSmart/MatheusProfile.jpg" width=115 > <br> <sub> Matheus Meneses</sub>](https://github.com/matheus457) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".ExSmart/GuiProfile.jpg" width=115 > <br> <sub> Guilherme Rodrigues</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> |
-| :---: | :---: | :---: | :---: |
+## Contribuidores
+[<img src=".Images/HigorProfile.jpg" width=115 > <br> <sub> Higor Rocha</sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/VictorProfile.jpg" width=115 > <br> <sub> Victor Nunes</sub>](https://github.com/VictorNuPe) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/MatheusProfile.jpg" width=115 > <br> <sub> Matheus Meneses</sub>](https://github.com/matheus457) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiProfile.jpg" width=115 > <br> <sub> Guilherme Santos</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiRochaProfile.jpg" width=115 > <br> <sub> Guilherme Rocha</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | 
+| :---: | :---: | :---: | :---: | :---: |
 
 <!-- CONTATOS -->
-## ✉️ Contatos
+## Contatos
 [![Instagram](https://img.shields.io/badge/-Instagram_-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/hiigorrocha_)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)&nbsp;
 
 ---
 
-Copyright ©️ 2021 - Ex Smart Parking
+Copyright ©️ 2021
