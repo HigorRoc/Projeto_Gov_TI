@@ -41,14 +41,6 @@ Neste projeto utilizamos as seguintes ferramentas:
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)
 - ![Colab](https://img.shields.io/badge/-Google%20Colab-05122A?&logo=Google%20Colab&logoColor=FF8C00)&nbsp; 
 
-<!-- REQUISITOS DO SISTEMA -->
-## Funcionalidades
-- `Cadastrar cliente` | Realizar o Cadastro do cliente com Nome, CPF, Endereço, Email e Senha;
-- `Cadastrar Veiculos` | Realizar o cadastro do Veículo com Fabricante, Modelo e Placa;
-- `Cadastrar Pagamento` | Realizar o Cadastro das formas de pagamento com Cartão de Crédito ou Débito em conta;
-- `Cadastro de Parceiros` | Realizar o Cadastro da utilização do Sem Parar (parceiro da EX);
-- `Realizar Reserva` | Realizar o registro de uma reserva de vaga no Ex Smart Parking escolhendo um dos polos e dentro escolher Andar, Setor e o Número da Vaga;
-
 <!-- CONTRIBUIDORES  -->
 ## Contribuidores
 [<img src=".Images/HigorProfile.jpg" width=115 > <br> <sub> Higor Rocha</sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/VictorProfile.jpg" width=115 > <br> <sub> Victor Nunes</sub>](https://github.com/VictorNuPe) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/MatheusProfile.jpg" width=115 > <br> <sub> Matheus Meneses</sub>](https://github.com/matheus457) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiProfile.jpg" width=115 > <br> <sub> Guilherme Santos</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiRochaProfile.jpg" width=115 > <br> <sub> Guilherme Rocha</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | 
