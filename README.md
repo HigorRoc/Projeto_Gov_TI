@@ -48,7 +48,7 @@ Neste projeto utilizamos as seguintes ferramentas:
 
 <!-- CONTRIBUIDORES  -->
 ## Contribuidores
-[<img src=".Images/HigorProfile.jpg" width=115 > <br> <sub> Higor Rocha</sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/VictorProfile.jpg" width=115 > <br> <sub> Victor Nunes</sub>](https://github.com/VictorNuPe) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/MatheusProfile.jpg" width=115 > <br> <sub> Matheus Meneses</sub>](https://github.com/matheus457) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiProfile.jpg" width=115 > <br> <sub> Guilherme Santos</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiRochaProfile.jpg" width=115 > <br> <sub> Guilherme Rocha</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | 
+[<img src=".Images/HigorProfile.jpg" width=110 > <br> <sub> Higor Rocha</sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/VictorProfile.jpg" width=115 > <br> <sub> Victor Nunes</sub>](https://github.com/VictorNuPe) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/MatheusProfile.jpg" width=115 > <br> <sub> Matheus Meneses</sub>](https://github.com/matheus457) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiProfile.jpg" width=115 > <br> <sub> Guilherme Santos</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".Images/GuiRochaProfile.jpg" width=115 > <br> <sub> Guilherme Rocha</sub>](https://github.com/guilherme2601) <br><sub>Aluno/Desenvolvedor</sub> | 
 | :---: | :---: | :---: | :---: | :---: |
 
 <!-- CONTATOS -->
