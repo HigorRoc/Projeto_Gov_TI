@@ -28,13 +28,13 @@
 
 <!-- INTEGRANTES -->
 ## Integrantes
-|RA|Nome|
-| -------- | -------- | 
-|3020101169|Guilherme Rocha Silva|
-|3019203263|Guilherme Rodrigues Santos|
-|919107294|Higor Rocha Fernandes da Silva|
-|3019201841|Matheus Meneses Messias|
-|3019109565|Victor Nunes Pedreira|
+|RA|Nome|Semestre|
+| -------- | -------- | -------- |
+|919107294|Higor Rocha Fernandes da Silva|7° Semestre|
+|3019109565|Victor Nunes Pedreira|7° Semestre|
+|3019203263|Guilherme Rodrigues Santos|6° semestre|
+|3019201841|Matheus Meneses Messias|6° Semestre|
+|3020101169|Guilherme Rocha Silva|5° Semestre|
 
 <!-- LINGUAGENS -->
 ## Tecnologias
