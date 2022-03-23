@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=A9A9A9&labelColor=000000" alt="Version 1.0"/>
-</p>
-
-<p align="center">
     Nesse semestre o novo desafio foi realizar uma Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados       aprendidas durantes as aulas.
 </p>
 <p align="center">
