@@ -3,10 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#-informações gerais">Informações Gerais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-integrantes">Integrantes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contatos">Contatos</a>
+  <a href="#informações-gerais">Informações Gerais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#integrantes">Integrantes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
@@ -14,7 +13,10 @@
 </p>
 
 <p align="center">
- Nesse semestre o novo desafio foi realizar uma Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados aprendidas durantes as aulas. 
+    Nesse semestre o novo desafio foi realizar uma Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados       aprendidas durantes as aulas.
+</p>
+<p align="center">
+    O conteúdo deste documento levou em consideração os dados, disponibilizados na plataforma Github.
 </p>
 
 <!-- INFORMAÇÕES GERAIS -->
