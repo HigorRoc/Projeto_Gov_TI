@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+    <img src=".Images/LogoAviao.png" width=450/>
+</p>
+
+<p align="center">
   <a href="#informações-gerais">Informações Gerais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#integrantes">Integrantes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>
