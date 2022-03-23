@@ -16,7 +16,8 @@
     Nesse semestre o novo desafio foi realizar uma Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados       aprendidas durantes as aulas.
 </p>
 <p align="center">
-    O conteúdo deste documento levou em consideração os dados, disponibilizados na plataforma Github.
+    Os dados utilizados para analises e demonstrações gráficas deste projeto foram passados pelo professor Edson, obtido pelo Cenipa.
+    Disponibilizado em: <a href="https://github.com/HigorRoc/Projeto_Gov_TI/blob/main/.Dados/ocorrencias_cenipa.csv">Ocorrências Cenipa</a>
 </p>
 
 <!-- INFORMAÇÕES GERAIS -->
