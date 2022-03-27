@@ -24,7 +24,7 @@
 
 <!-- INFORMAÇÕES GERAIS -->
 ## Informações Gerais
-* Universidade Nove de Julho 
+* Universidade Nove de Julho - UNINOVE
 * Professor Edson M. Souza [(GitHub)](https://github.com/EdsonMSouza)
 * Disciplina Ciência de Dados - Projeto de Gover. em TI
 
