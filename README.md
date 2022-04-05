@@ -58,4 +58,4 @@ Neste projeto utilizamos as seguintes ferramentas:
 
 ---
 
-Copyright ©️ 2021
+Copyright ©️ 2022
