@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src=".Images/LogoAviao.png" width=450/>
+    <img src="LogoAviao.png" width=450/>
 </p>
 
 <p align="center">
@@ -30,28 +30,45 @@
 
 <!-- INTEGRANTES -->
 ## Integrantes
-|RA|Nome|Semestre|
+<!--|RA|Nome|Semestre|
 | -------- | -------- | -------- |
 |919107294|Higor Rocha Fernandes da Silva|7° Semestre|
 |3019109565|Victor Nunes Pedreira|7° Semestre|
 |3019203263|Guilherme Rodrigues Santos|6° semestre|
 |3019201841|Matheus Meneses Messias|6° Semestre|
-|3020101169|Guilherme Rocha Silva|5° Semestre|
+|3020101169|Guilherme Rocha Silva|5° Semestre|-->
 
 <table border="1">    
   <tr>
-    <th colspan="2">Cabeçalho da Tabela</th>
+    <th colspan="3">RA / NOME / SEMESTRE</th>
   </tr>        
   <tr>
-    <td>Linha 1 - Coluna 1</td>
-    <td>Linha 1 - Ccoluna 2</td>
+    <td>919107294</td>
+    <td>Higor Rocha Fernandes da Silva</td>
+    <td>7° Semestre</td>
   </tr>
   <tr>
-    <td>Linha 2 - Coluna 1</td>
-    <td>Linha 2 - Coluna 2</td>
+    <td>3019109565</td>
+    <td>Victor Nunes Pedreira</td>
+    <td>7° Semestre</td>
   </tr>
   <tr>
-    <td colspan="2"><b>Rodapé da tabela</b></td>
+    <td>3019109565</td>
+    <td>Guilherme Rodrigues Santos</td>
+    <td>6° Semestre</td>
+  </tr>
+  <tr>
+    <td>3019201841</td>
+    <td>Matheus Meneses Messias</td>
+    <td>6° Semestre</td>
+  </tr>
+  <tr>
+    <td>3020101169</td>
+    <td>Guilherme Rocha Silva</td>
+    <td>5° Semestre</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b></b></td>
   </tr>
 </table>
 
