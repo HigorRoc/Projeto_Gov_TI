@@ -9,15 +9,12 @@
 <p align="center">
   <a href="#informações-gerais">Informações Gerais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#integrantes">Integrantes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#resumo-do-projeto">Resumo Projeto</a>
 </p>
 
 <p align="center">
-    Nesse semestre o novo desafio foi realizar uma Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados       aprendidas durantes as aulas.
-</p>
-<p align="center">
-    Os dados utilizados para analises e demonstrações gráficas deste projeto foram passados pelo professor Edson, obtido pelo Cenipa.
-    Disponibilizado em: <a href="https://github.com/HigorRoc/Projeto_Gov_TI/blob/main/.Dados/ocorrencias_cenipa.csv">Ocorrências Cenipa</a>
+    Nesse semestre o novo desafio foi realizar uma Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados       aprendidas durantes as aulas. Dados disponibilizados em: <a href="https://github.com/HigorRoc/Projeto_Gov_TI/blob/main/.Dados/ocorrencias_cenipa.csv">Ocorrências Cenipa</a>
 </p>
 
 <br>
@@ -72,13 +69,35 @@
   </tr>
 </table>
 
-<!-- LINGUAGENS -->
+<!-- TECNOLOGIAS -->
 ## Tecnologias
 Neste projeto utilizamos as seguintes ferramentas:
 
 - ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)&nbsp;
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)
 - ![Colab](https://img.shields.io/badge/-Google%20Colab-05122A?&logo=Google%20Colab&logoColor=FF8C00)&nbsp; 
+
+<!-- RESUMO DO PROJETO -->
+## Resumo do Projeto
+
+Todo levantamento estatístico foi feito diretamente da base de dados de **Ocorrências Aéreas de 2010 a 2019**, disponibilizadas pelo **CENIPA**, que é o órgão do Comando da Aeronáutica responsável pelas atividades de investigação de acidentes aeronáuticos da aviação civil e da Força Aérea Brasileira.
+
+Buscamos demosntrar no projeto, de forma visual e gráfica, as principais informações contidas na base, essas as quais não seriam possíveis ou teriam um tempo de verificação maior se fosse via ferramenta de planilhas.
+
+Os filtros com maior relevância nas ocorrências deste período foram:
+- **Principais motivos das ocorrências:**
+  - Observamos que de 2010 a 2019, a ocorrência que mais se relatou totalizando **632** casos foi **Falha no Motor em Voo**, equivalente a **12.05%** do total.
+
+- **Horário das Ocorrências:**
+  - Vemos que hoje em dia muita pessoas tem medo de voar durante a noite e ao analisar o gráfico, notamos que horário em que mais relataram ocorrências foi **00:00** com **160** casos.
+
+- **País-Fabricante das Aeronaves:**
+  - Durante a analise, fica claro que das aeronaves envolvidas em incidentes pertencem ao **Brasil** o total de **5139** casos, sendo equivalente a exatos **98%** do total de ocorrências.
+
+- **Fase da Operação no momento da ocorrência:**
+  - Conseguimos verificar que as 3 fases de operação em que mais obtiveram ocorrências envolvidas foi **Pouso (910)**, **Decolagem (852)** e **Cruzeiro (744)**, ambas equivalem a **47.8%** do total.
+
+<br>
 
 <!-- CONTRIBUIDORES  -->
 ## Contribuidores
